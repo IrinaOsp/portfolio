@@ -2,8 +2,6 @@
 
 Below are my project arranged in order from last to first
 
-+ **Async-race**
-[deploy](https://rolling-scopes-school.github.io/irinaosp-JSFE2023Q1/async-race/)
 + **Game CSS Selectors**
 [deploy](https://rolling-scopes-school.github.io/irinaosp-JSFE2023Q1/RSS-CSS-Selectors/)
 + **Minesweeper game**
