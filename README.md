@@ -4,7 +4,9 @@ Below are my project arranged in order from last to first
 
 + **eCommerce Application**
 [deploy](https://asian-food-delivery.netlify.app/) /
-[task (EN)](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/eCommerce-Application/Readme.md)
+[task (EN)](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/eCommerce-Application/Readme.md) /
+[repository](https://github.com/lesik2/eCommerce-Application) / 
+Technology stack: React, Eslint, Husky, Prettier, TS, MUI, Tailwind CSS
 
 <img src="https://github.com/IrinaOsp/RS-Stage-1-2/assets/108676588/5da7c528-3877-4e95-b8a9-dcafe72d5dc2" title="screenshot" alt="screenshot" width="400"/>
 
