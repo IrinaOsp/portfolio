@@ -2,6 +2,25 @@
 
 Below are my project arranged in order from last to first
 
++ **Graphql app**
+[deploy](https://quiet-manatee-2adebe.netlify.app/) /
+[task](https://github.com/rolling-scopes-school/tasks/blob/master/react/modules/graphiql.md) / 
+[repository](https://github.com/IrinaOsp/graphiql-app/tree/development)
+
+Playground/IDE for graphQL requests
+
+Tech stack: React, Eslint, Husky, Prettier, TS, MUI, Tailwind CSS, Commerce tools
+
+<img src="https://github.com/IrinaOsp/portfolio/assets/108676588/a0b67bcf-5139-4026-980c-7b4fa79f80cc" title="screenshot" alt="screenshot" width="400"/>
+
++ **Coffee house**
+[deploy](https://rolling-scopes-school.github.io/irinaosp-JSFEEN2023Q4/coffee-house/) / 
+[task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/coffee-house/coffee-house.md)
+
+Responsive two pages website made with HTML, SCSS, pure JS
+
+<img src="https://github.com/IrinaOsp/portfolio/assets/108676588/6b602ae0-f022-4a1e-a373-6539539d5c24" title="screenshot" alt="screenshot" width="400"/>
+
 + **eCommerce Application**
 [deploy](https://asian-food-delivery.netlify.app/) /
 [task (EN)](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/eCommerce-Application/Readme.md) /
