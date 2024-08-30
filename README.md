@@ -9,7 +9,7 @@ Below are my project arranged in order from last to first
 
 Playground/IDE for graphQL requests
 
-Tech stack: React, Eslint, Husky, Prettier, TS, MUI, Tailwind CSS, Commerce tools
+Tech stack: NextJS / React, TS, Reduxjs, Graphql, Tailwind CSS, Firebase for registration, Eslint, Husky, Prettier
 
 <img src="https://github.com/IrinaOsp/portfolio/assets/108676588/a0b67bcf-5139-4026-980c-7b4fa79f80cc" title="screenshot" alt="screenshot" width="400"/>
 
