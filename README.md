@@ -2,6 +2,19 @@
 
 Below are my project arranged in order from last to first
 
++ **Board games site**
+[deploy](https://deliciousgames-gilt.vercel.app/) needs some time to get response from server /
+[Strapi backend](https://deliciousgames-backend.onrender.com/) /
+[repository](https://github.com/IrinaOsp/deliciousgames)
+
+Site for board games
+
+Tech stack: NextJS / React, TS, Tailwind CSS, i18n for translation, Strapi for CMS
+
+<img src="https://github.com/user-attachments/assets/3cf6e617-ed1e-4cf7-8ecd-96fb224def07" title="screenshot" alt="screenshot" width="400"/>
+
+
+
 + **Graphql app**
 [deploy](https://quiet-manatee-2adebe.netlify.app/) /
 [task](https://github.com/rolling-scopes-school/tasks/blob/master/react/modules/graphiql.md) / 
