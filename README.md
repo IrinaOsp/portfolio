@@ -7,7 +7,9 @@ Below are my project arranged in order from last to first
 [Strapi backend](https://deliciousgames-backend.onrender.com/) /
 [repository](https://github.com/IrinaOsp/deliciousgames)
 
-Site for board games
+Site for board games.
+
+If the page does not fetch data from backend, visit [https://deliciousgames-backend.onrender.com/api/games](https://deliciousgames-backend.onrender.com/api/games)
 
 Tech stack: NextJS / React, TS, Tailwind CSS, i18n for translation, Strapi for CMS
 
